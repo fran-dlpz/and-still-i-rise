@@ -1,0 +1,15 @@
+{
+  "content": [],
+  "created_at": "2025-03-22T20:04:31.649Z",
+  "created_by": "fran-dlpz",
+  "title": "And Still I Rise",
+  "slug": "and-still-i-rise",
+  "updated_at": "2025-03-22T20:04:31.649Z",
+  "updated_by": "fran-dlpz",
+  "parent": "c051acca-d2fe-4799-842d-12c4c3c7486d",
+  "autogenerate": {
+    "enabled": true,
+    "type": "event",
+    "type_id": "db44896a-10c8-410f-8280-6edcb99fa2d5"
+  }
+}
