@@ -1,5 +1,656 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 1,
+      "end_time": 43,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Angelou provides a small commentary on her poem"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Background"
+        },
+        {
+          "tag": "Context",
+          "category": "Background"
+        }
+      ],
+      "uuid": "fc29b4c7-4c9d-44e9-978f-df3ece6c12a9"
+    },
+    {
+      "start_time": 51,
+      "end_time": 52,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Quick pause"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Extra-Poetic Sounds"
+        },
+        {
+          "tag": "Ambient Noise",
+          "category": "Extra-Poetic Sounds"
+        }
+      ],
+      "uuid": "2df88b29-2a25-4714-a48a-d4e7b4cf3016"
+    },
+    {
+      "start_time": 52,
+      "end_time": 53,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Angelou's voice is amused; certain of her statement"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Extra-Poetic Sounds"
+        },
+        {
+          "tag": "Speech",
+          "category": "Extra-Poetic Sounds"
+        }
+      ],
+      "uuid": "4c04e5bf-4102-48b1-abae-3a7787ea4e73"
+    },
+    {
+      "start_time": 59,
+      "end_time": 62,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Improvisation of original/written line"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Form"
+        },
+        {
+          "tag": "Verse Structure",
+          "category": "Form"
+        }
+      ],
+      "uuid": "fb96f4e4-0b4b-40ef-9c2c-e85e5a548d13"
+    },
+    {
+      "start_time": 65,
+      "end_time": 67,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Improvisation of original/written line"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Form"
+        },
+        {
+          "tag": "Verse Structure",
+          "category": "Form"
+        }
+      ],
+      "uuid": "51e31268-ab67-465f-afa4-60ea70408d9d"
+    },
+    {
+      "start_time": 86,
+      "end_time": 88,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Improvisation of original/written line and repeat of first line from the second stanza"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Form"
+        },
+        {
+          "tag": "Verse Structure",
+          "category": "Form"
+        }
+      ],
+      "uuid": "9e8736ac-d4be-48dd-8451-aa689ee138f2"
+    },
+    {
+      "start_time": 88,
+      "end_time": 89,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Angelou chuckles"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Extra-Poetic Sounds"
+        },
+        {
+          "tag": "Speech",
+          "category": "Extra-Poetic Sounds"
+        }
+      ],
+      "uuid": "5946a090-06bd-49a5-bc2b-8e62d1bf7f1b"
+    },
+    {
+      "start_time": 89,
+      "end_time": 90,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Improvisation of original/written line"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Form"
+        },
+        {
+          "tag": "Verse Structure",
+          "category": "Form"
+        }
+      ],
+      "uuid": "a2a4bfa9-252b-42f0-952b-a84d18c3a452"
+    },
+    {
+      "start_time": 92,
+      "end_time": 93,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Angelou chuckles again"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Extra-Poetic Sounds"
+        },
+        {
+          "tag": "Speech",
+          "category": "Extra-Poetic Sounds"
+        }
+      ],
+      "uuid": "b6f6ace1-ae89-4f3e-9d3b-91d94d02d7a2"
+    },
+    {
+      "start_time": 93,
+      "end_time": 94,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Quick pause"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Extra-Poetic Sounds"
+        },
+        {
+          "tag": "Speech",
+          "category": "Extra-Poetic Sounds"
+        }
+      ],
+      "uuid": "44de7313-8153-4f29-b700-06e7f9b3d984"
+    },
+    {
+      "start_time": 100,
+      "end_time": 101,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Improvisation of original/written word"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Form"
+        },
+        {
+          "tag": "Verse Structure",
+          "category": "Form"
+        }
+      ],
+      "uuid": "144fe5c1-3bae-429d-ac70-04db2fcf67e0"
+    },
+    {
+      "start_time": 102,
+      "end_time": 104,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Improvisation of original/written word"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Form"
+        },
+        {
+          "tag": "Verse Structure",
+          "category": "Form"
+        }
+      ],
+      "uuid": "e88e0ef8-5ea4-44e0-acc6-c59ade9946f3"
+    },
+    {
+      "start_time": 104,
+      "end_time": 105,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Improvisation of original/written line"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Form"
+        },
+        {
+          "tag": "Verse Structure",
+          "category": "Form"
+        }
+      ],
+      "uuid": "4e1f76b5-ffa7-4ae0-95c7-162f0f057c09"
+    },
+    {
+      "start_time": 107,
+      "end_time": 110,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Improvisation of original/written line"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Form"
+        },
+        {
+          "tag": "Verse Structure",
+          "category": "Form"
+        }
+      ],
+      "uuid": "a8661d0a-b4a0-4982-a485-27f9899d4c90"
+    },
+    {
+      "start_time": 107,
+      "end_time": 108,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Angelou's pitch rises momentarily"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Extra-Poetic Sounds"
+        },
+        {
+          "tag": "Speech",
+          "category": "Extra-Poetic Sounds"
+        }
+      ],
+      "uuid": "b06a4ec9-836b-4340-a398-5c69373f5077"
+    },
+    {
+      "start_time": 112,
+      "end_time": 113,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Improvisation of original/written word"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Form"
+        },
+        {
+          "tag": "Verse Structure",
+          "category": "Form"
+        }
+      ],
+      "uuid": "0f1b76e8-6c26-481e-aa2d-836aee7c06d8"
+    },
+    {
+      "start_time": 113,
+      "end_time": 114,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Angelou makes a sound of sympathy"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Extra-Poetic Sounds"
+        },
+        {
+          "tag": "Speech",
+          "category": "Extra-Poetic Sounds"
+        }
+      ],
+      "uuid": "613486d7-65a2-4448-ab43-bb64f08d56bd"
+    },
+    {
+      "start_time": 118,
+      "end_time": 121,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Long pause"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Extra-Poetic Sounds"
+        },
+        {
+          "tag": "Ambient Noise",
+          "category": "Extra-Poetic Sounds"
+        }
+      ],
+      "uuid": "5e9172b0-3c90-4f97-ad3d-083b364ae349"
+    },
+    {
+      "start_time": 130,
+      "end_time": 131,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Improvisation of original/written word"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Form"
+        },
+        {
+          "tag": "Verse Structure",
+          "category": "Form"
+        }
+      ],
+      "uuid": "ffbf2b37-9358-44b7-8e30-195cb1ba0dcc"
+    },
+    {
+      "start_time": 133,
+      "end_time": 136,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Improvisation of original/written line"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Form"
+        },
+        {
+          "tag": "Verse Structure",
+          "category": "Form"
+        }
+      ],
+      "uuid": "b1640513-a82d-4fc7-8749-21199db0824c"
+    },
+    {
+      "start_time": 146,
+      "end_time": 149,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Improvisation of original/written line"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Form"
+        },
+        {
+          "tag": "Verse Structure",
+          "category": "Form"
+        }
+      ],
+      "uuid": "f74a0627-2acf-465e-82af-7da96b020d53"
+    },
+    {
+      "start_time": 156,
+      "end_time": 159,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Improvisation of original/written line"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Form"
+        },
+        {
+          "tag": "Verse Structure",
+          "category": "Form"
+        }
+      ],
+      "uuid": "94fe6d13-6bc7-44fb-929a-d9a195ef11e6"
+    },
+    {
+      "start_time": 162,
+      "end_time": 163,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Addition of new words"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Form"
+        },
+        {
+          "tag": "Verse Structure",
+          "category": "Form"
+        }
+      ],
+      "uuid": "5fbf6cd3-7a47-4630-9962-7bd76cb2bcaa"
+    },
+    {
+      "start_time": 163,
+      "end_time": 164,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Angelou claps"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Extra-Poetic Sounds"
+        },
+        {
+          "tag": "Audience Sounds",
+          "category": "Extra-Poetic Sounds"
+        }
+      ],
+      "uuid": "f9087811-f552-4f62-a30a-66a7cd7e5323"
+    },
+    {
+      "start_time": 164,
+      "end_time": 168,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Long pause"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Extra-Poetic Sounds"
+        },
+        {
+          "tag": "Ambient Noise",
+          "category": "Extra-Poetic Sounds"
+        }
+      ],
+      "uuid": "6c17f6bc-5add-4854-9434-a2e829195d03"
+    },
+    {
+      "start_time": 169,
+      "end_time": 171,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Improvisation of original/written line"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Form"
+        },
+        {
+          "tag": "Verse Structure",
+          "category": "Form"
+        }
+      ],
+      "uuid": "c8f70fea-c83c-4e74-9bd1-26286e857d7b"
+    }
+  ],
   "set": "Default",
   "event_id": "db44896a-10c8-410f-8280-6edcb99fa2d5",
   "source_id": "6e0a6356-9190-4864-a17b-472019c3dfef"
